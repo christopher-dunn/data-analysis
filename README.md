@@ -93,3 +93,9 @@ All project files are included in this repository, including final outputs, SQL 
 - `.gif`, `.png` — Dashboard previews  
 - `.ipynb` — Jupyter notebooks used in Python-based analysis  
 - `.sql` — SQL scripts used in SQL-based analysis
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/christopher-dunn-)
