@@ -44,7 +44,7 @@ All project files are included in this repository, including final outputs, SQL 
 ### 2. Hitter Analysis (Python, Google Slides)
 
 **Objective:** Analyze Shohei Ohtani’s 2023 hitting tendencies to educate a hypothetical pitcher on how to pitch to Ohtani.  
-**Tools:** Python (Jupyter, Pandas, NumPy, Seaborn, Matplotlib, pybaseball API), Google Slides  
+**Tools:** Python (Jupyter, Pandas, NumPy, Matplotlib, Seaborn, pybaseball API), Google Slides  
 
 **Focus Areas:**  
 - Batting average by pitch type and location  
