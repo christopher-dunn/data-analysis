@@ -10,14 +10,14 @@ All project files are included in this repository, including final outputs, SQL 
 
 1. **Federal Contract Dashboard (SQL, Tableau)**  
    - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/christopher.dunn8263/viz/federal-contract-analysis/FederalContractAwardTransactions?publish=yes)  
-   - ![Tableau Dashboard GIF](01-federal-contract-analysis/01-dashboard-interaction.gif)
+   - ![Tableau Dashboard GIF](01-federal-contract-dashboard/01-dashboard-interaction.gif)
 
 2. **Professional Hitter Report (Python, Google Slides)**  
-   - [Professional Scouting-Style PDF](02-hitter-analysis/01-christopher-dunn-hitter-analysis.pdf)
+   - [Professional Scouting-Style PDF](02-professional-hitter-report/01-christopher-dunn-hitter-analysis.pdf)
 
 3. **Professional Pitcher Dashboard (Python, DuckDB SQL, Power BI)**  
    - [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwY2EyMjMtYTc4OS00Yjk2LTg0ODYtYzJmOWQxMmJjYTU2IiwidCI6IjFhNzRiYjQ5LTg5MGItNGE5YS1iMGJkLWY5MTk5ODg2YTY2YyIsImMiOjJ9)  
-   - ![Power BI Dashboard GIF](03-pitcher-analysis/01-dashboard-interaction.gif)
+   - ![Power BI Dashboard GIF](03-professional-pitcher-dashboard/01-dashboard-interaction.gif)
 
 ---
 
@@ -37,7 +37,7 @@ All project files are included in this repository, including final outputs, SQL 
 
 **Deliverables**  
 - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/christopher.dunn8263/viz/federal-contract-analysis/FederalContractAwardTransactions?publish=yes)  
-- [Tableau Dashboard Preview](01-federal-contract-analysis/01-dashboard-interaction.gif)
+- [Tableau Dashboard Preview](01-federal-contract-dashboard/01-dashboard-interaction.gif)
 
 ---
 
@@ -54,7 +54,7 @@ All project files are included in this repository, including final outputs, SQL 
 **Process:** Queried 2023 individual pitch data for Ohtani via pybaseball API, then enhanced it with pitch-type groupings, count context, and 5×5 location bins using Pandas and NumPy. Calculated first-pitch swing rates, chase/whiff splits, and batting average heatmaps. Plotted visuals with Matplotlib/Seaborn, exported PNGs, and assembled a PDF report in Google Slides.
 
 **Deliverables**  
-- [Professional Scouting-Style PDF](02-hitter-analysis/01-christopher-dunn-hitter-analysis.pdf)
+- [Professional Scouting-Style PDF](02-professional-hitter-report/01-christopher-dunn-hitter-analysis.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ All project files are included in this repository, including final outputs, SQL 
 
 **Deliverables**  
 - [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwY2EyMjMtYTc4OS00Yjk2LTg0ODYtYzJmOWQxMmJjYTU2IiwidCI6IjFhNzRiYjQ5LTg5MGItNGE5YS1iMGJkLWY5MTk5ODg2YTY2YyIsImMiOjJ9)  
-- [Power BI Dashboard Preview](03-pitcher-analysis/01-dashboard-interaction.gif)
+- [Power BI Dashboard Preview](03-professional-pitcher-dashboard/01-dashboard-interaction.gif)
 
 ---
 
