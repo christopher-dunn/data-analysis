@@ -53,7 +53,7 @@ All project files are included in this repository, including final outputs, SQL 
 
 **Process:** Queried 2023 individual pitch data for Ohtani via pybaseball API, then enhanced it with pitch-type groupings, count context, and 5×5 location bins using Pandas and NumPy. Calculated first-pitch swing rates, chase/whiff splits, and batting average heatmaps. Plotted visuals with Matplotlib/Seaborn, exported PNGs, and assembled a PDF report in Google Slides.
 
-**Deliverable**  
+**Deliverables**  
 - [Professional Scouting-Style PDF](02-hitter-analysis/01-christopher-dunn-hitter-analysis.pdf)
 
 ---
@@ -79,11 +79,11 @@ All project files are included in this repository, including final outputs, SQL 
 
 ## Key Skills Demonstrated
 
-- **SQL Data Modeling:** Cleaned and standardized 14GB+ of contract data, applied window functions for recipient rankings and market-share metrics, and published reusable views that drive Tableau dashboards.  
-- **Python Feature Engineering:** Automated data pulls, enhanced datasets with Pandas/NumPy, and used DuckDB SQL in Jupyter for rapid slicing of multi-season data.  
-- **BI Data Visualization:** Built interactive Tableau and Power BI dashboards with custom visuals and dynamic, user-driven controls. Leveraged calculated fields, parameters, calculated columns, and measures.  
-- **Performance Optimization and Workflow Ownership:** Queried data, pruned columns, enforced type casting, exported flat files, and managed the full workflow from raw extraction to polished public deliverables.  
-- **Communication and Documentation:** Delivered PDF, public dashboards, GIF demos, and a version-controlled repository that translates complex analyses into concise insights.
+- **SQL Data Modeling:** Cleaned and standardized 14GB+ of contract data, applied window functions for recipient rankings and market-share metrics, and published reusable views that drive Tableau dashboards 
+- **Python Feature Engineering:** Automated data pulls, enhanced datasets with Pandas/NumPy, and used DuckDB SQL in Jupyter for rapid slicing of multi-season data
+- **BI Data Visualization:** Built interactive Tableau and Power BI dashboards with custom visuals and dynamic, user-driven controls. Leveraged calculated fields, parameters, calculated columns, and measures  
+- **Performance Optimization and Workflow Ownership:** Queried data, pruned columns, enforced type casting, exported flat files, and managed the full workflow from raw extraction to polished public deliverables
+- **Communication and Documentation:** Delivered PDF, public dashboards, GIF demos, and a version-controlled repository that translates complex analyses into concise insights
 
 ---
 
