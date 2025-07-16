@@ -61,7 +61,7 @@ All project files are included in this repository, including final outputs, SQL 
 ### 3. Professional Pitcher Dashboard (Python, DuckDB SQL, Power BI)
 
 **Objective:** Analyze Shohei Ohtani’s 2018 and 2021-23 pitch data to unearth key trends in analytical categories.  
-**Tools:** Python (Jupyter, Matplotlib, DuckDB SQL, pybaseball API), Power BI  
+**Tools:** Python (Jupyter, Pandas, DuckDB SQL, pybaseball API), Power BI  
 
 **Focus Areas:**  
 - Batting average and isolated power against by pitch-type  
