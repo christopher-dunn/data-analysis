@@ -16,7 +16,6 @@ All project files are included in this repository, including final outputs, SQL 
    - [Professional Scouting-Style PDF](02-professional-hitter-report/01-christopher-dunn-hitter-analysis.pdf)
 
 3. **Professional Pitcher Dashboard (Python, DuckDB SQL, Power BI)**  
-   - [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwY2EyMjMtYTc4OS00Yjk2LTg0ODYtYzJmOWQxMmJjYTU2IiwidCI6IjFhNzRiYjQ5LTg5MGItNGE5YS1iMGJkLWY5MTk5ODg2YTY2YyIsImMiOjJ9)  
    - ![Power BI Dashboard GIF](03-professional-pitcher-dashboard/01-dashboard-interaction.gif)
 
 ---
@@ -71,8 +70,7 @@ All project files are included in this repository, including final outputs, SQL 
 
 **Process:** Queried 2018 and 2021-23 individual pitch data for Ohtani via pybaseball API and trimmed columns with DuckDB. Visualized pitch-level and time-series data in Power BI leveraging DAX to create measures and calculated columns.
 
-**Deliverables**  
-- [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEwY2EyMjMtYTc4OS00Yjk2LTg0ODYtYzJmOWQxMmJjYTU2IiwidCI6IjFhNzRiYjQ5LTg5MGItNGE5YS1iMGJkLWY5MTk5ODg2YTY2YyIsImMiOjJ9)  
+**Deliverables**   
 - [Power BI Dashboard Preview](03-professional-pitcher-dashboard/01-dashboard-interaction.gif)
 
 ---
